@@ -5,18 +5,12 @@
         "title": "Inspect Asset A",
         "status": "Open",
         "scheduledDate": "2025-02-02T10:00:00Z"
+      },
+        {
+        "jobId": "J02",
+        "title": "Inspect Asset b",
+        "status": "Open",
+        "scheduledDate": "2025-02-02T10:00:00Z"
       }
-    ],
-    "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
+    ]
 }
