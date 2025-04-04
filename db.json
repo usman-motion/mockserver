@@ -18,14 +18,14 @@
         "jobNumber": "3",
         "customerName": "Customer 3",
         "siteName": "Site 3",
-        "status": "cancelled"
+        "status": "reopened"
       },
       {
         "id": 4,
         "jobNumber": "4",
         "customerName": "Customer 4",
         "siteName": "Site 4",
-        "status": "Open"
+        "status": "started"
       },
         {
         "id": 5,
