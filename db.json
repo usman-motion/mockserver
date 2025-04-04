@@ -4,21 +4,21 @@
         "id": 1,
         "jobNumber": "1",
         "customerName": "Customer 1",
-        "siteName": "Site 1"
+        "siteName": "Site 1",
         "status": "Open"
       },
       {
           "id": 2,
         "jobNumber": "2",
         "customerName": "Customer 2",
-        "siteName": "Site 2"
+        "siteName": "Site 2",
         "status": "Open"
       },
       {
           "id": 3,
         "jobNumber": "3",
         "customerName": "Customer 3",
-        "siteName": "Site 3"
+        "siteName": "Site 3",
         "status": "Open"
       }
     ]
