@@ -1,5 +1,4 @@
-{
-    "jobs": [
+[
       {
         "id": 1,
         "jobNumber": "1",
@@ -35,5 +34,4 @@
         "siteName": "Site 5",
         "status": "Open"
       }
-    ]
-}
+]
