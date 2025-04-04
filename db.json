@@ -9,7 +9,7 @@
       {
         "id": 2,
         "jobNumber": "2",
-        "customerName": "Customer 2",
+        "customerName": "Customer two",
         "siteName": "Site 2",
         "status": "Open"
       },
@@ -30,7 +30,7 @@
         {
         "id": 5,
         "jobNumber": "5",
-        "customerName": "Customer 5",
+        "customerName": "Customer five",
         "siteName": "Site 5",
         "status": "Open"
       },
@@ -46,6 +46,29 @@
         "jobNumber": "7",
         "customerName": "Customer seven",
         "siteName": "Site 7",
+        "status": "Open"
+      },
+        {
+        "id": 8,
+        "jobNumber": "8",
+        "customerName": "Customer 8",
+        "siteName": "Site 8",
+        "status": "Open"
+      }
+      ,
+        {
+        "id": 9,
+        "jobNumber": "9",
+        "customerName": "Customer 9",
+        "siteName": "Site 9",
+        "status": "Open"
+      }
+      ,
+        {
+        "id": 10,
+        "jobNumber": "10",
+        "customerName": "Customer 10",
+        "siteName": "Site 10",
         "status": "Open"
       }
 ]
