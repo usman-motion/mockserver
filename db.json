@@ -29,9 +29,16 @@
       },
         {
         "id": 5,
-        "jobNumber": "4",
+        "jobNumber": "5",
         "customerName": "Customer 5",
         "siteName": "Site 5",
+        "status": "Open"
+      },
+        {
+        "id": 6,
+        "jobNumber": "6",
+        "customerName": "Customer 6",
+        "siteName": "Site 6",
         "status": "Open"
       }
 ]
