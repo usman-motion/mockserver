@@ -1,0 +1,10 @@
+{
+  "jobs": [
+    {
+      "jobId": "J01",
+      "title": "Inspect Asset A",
+      "status": "Open",
+      "scheduledDate": "2025-02-02T10:00:00Z",
+    }
+  ]
+}
