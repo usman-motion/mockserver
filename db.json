@@ -1,13 +1,22 @@
 {
     "jobs": [
       {
+        "id": 1,
         "jobId": "J01",
         "title": "Inspect Asset A",
         "status": "Open",
         "scheduledDate": "2025-02-02T10:00:00Z"
       },
-        {
+      {
+        "id": 2,
         "jobId": "J02",
+        "title": "Inspect Asset b",
+        "status": "Open",
+        "scheduledDate": "2025-02-02T10:00:00Z"
+      },
+      {
+        "id": 3,
+        "jobId": "J03",
         "title": "Inspect Asset b",
         "status": "Open",
         "scheduledDate": "2025-02-02T10:00:00Z"
