@@ -1,12 +1,14 @@
 [
   {
-  "jobs": [
-    {
-      "jobId": "J01",
-      "title": "Inspect Asset A",
-      "status": "Open",
-      "scheduledDate": "2025-02-02T10:00:00Z"
-    }
-  ]
+    "id": 1,
+    "title": "Post 1"
+  },
+  {
+    "id": 2,
+    "title": "Post 2"
+  },
+  {
+    "id": 3,
+    "title": "Post 3"
   }
 ]
