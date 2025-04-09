@@ -4,7 +4,7 @@
         "jobNumber": "1",
         "customerName": "Customer 1",
         "siteName": "Site 1",
-        "status": "started"
+        "status": "completed"
       },
       {
         "id": 2,
@@ -69,7 +69,7 @@
         "jobNumber": "10",
         "customerName": "Customer 10",
         "siteName": "Site 10",
-        "status": "Open"
+        "status": "started"
       }
        ,
         {
@@ -78,5 +78,13 @@
         "customerName": "Customer 11",
         "siteName": "Site 11",
         "status": "completed"
+      }
+       ,
+        {
+        "id": 12,
+        "jobNumber": "12",
+        "customerName": "Customer 12",
+        "siteName": "Site 12",
+        "status": "started"
       }
 ]
